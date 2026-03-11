@@ -1,2 +1,2 @@
-# ma-ysklep-java
+# malysklep-java
 Powtórka
