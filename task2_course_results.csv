@@ -1,0 +1,9 @@
+student_id,full_name,quiz_points,lab_points,project_points,exam_points
+S001,Anna Kowalska,16,36,45,72
+S002,Piotr Nowak,10,30,20,48
+S003,Maya Tanaka,18,38,48,90
+S004,Jan Zielinski,14,28,0,55
+S005,Lena Wisniewska,17,34,41,78
+S006,Adam Lis,8,22,15,40
+S007,Olivia Chen,19,39,49,95
+S008,Mateusz Wrobel,12,26,30,60
